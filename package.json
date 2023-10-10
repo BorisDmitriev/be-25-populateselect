@@ -1,0 +1,24 @@
+{
+    "name": "mongoose-populate-and-select",
+    "version": "1.0.0",
+    "description": "Given the following models:",
+    "main": "solution.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node solution.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/herbertnikolajewskidci/Mongoose-populate-and-select.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/herbertnikolajewskidci/Mongoose-populate-and-select/issues"
+    },
+    "homepage": "https://github.com/herbertnikolajewskidci/Mongoose-populate-and-select#readme",
+    "dependencies": {
+        "mongoose": "^7.3.0"
+    }
+}
